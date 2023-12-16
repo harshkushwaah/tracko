@@ -19,7 +19,7 @@ https://cool-exchange.surge.sh/
 Install my-project with npm
 
 ```bash
-  git clone 
+  git clone https://github.com/harshkushwaah/tracko.git
   cd tracko
   npm install
   npm run dev
