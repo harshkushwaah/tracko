@@ -9,8 +9,9 @@ This project is created by:
 
 
 ## Demo
+Open On **Desktop Only**
 
-https://cool-exchange.surge.sh/
+link : https://cool-exchange.surge.sh/
 
 #### App Preview
 ![Preview](/public/Isolated.png "Tracko - Preview")
